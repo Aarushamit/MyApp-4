@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "book-santa",
+    "slug": "book-santa",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "green"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.testingUser.bookSanta",
+      "versionCode": 2
+    }
+  }
+}
